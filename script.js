@@ -1,3 +1,5 @@
+// COPYRIGHT (C) 2024 SWATHYMOL SAJEEV | GNU General Public License v3.0
+
 const elem = document.getElementById("element");
 const code = document.getElementById("code");
 const sliders = document.querySelectorAll(".sliders input");
